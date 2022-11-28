@@ -1,2 +1,2 @@
 # natural-selection-sim
-This is OOP-Programm to simulate natural selection.
+This is an OOP-Programm to simulate natural selection.
