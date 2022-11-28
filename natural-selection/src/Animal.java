@@ -32,9 +32,9 @@ public class Animal {
     public boolean isAlive() {
         if (ttl > 0) {
             return true;
-        } else {
-            return false;
         }
+        return false;
+        
     }
     public int[] getPos() {
         return new int[]{posX, posY};
